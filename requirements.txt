@@ -1,0 +1,10 @@
+tensorflow>=2.15
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+opencv-python
+pillow
+# Opcional (Entrega 4, cabeza de decisión) — necesario para 02b_autogluon_entrega4.py:
+# autogluon.tabular
